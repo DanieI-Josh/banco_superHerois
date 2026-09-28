@@ -1,0 +1,27 @@
+# Compilação Java
+target/
+*.class
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
